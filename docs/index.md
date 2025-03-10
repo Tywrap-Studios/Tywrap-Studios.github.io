@@ -6,4 +6,4 @@ This is the Tywrap Studios Documentation Hub. Here you can find all the informat
 
 === "Constructra"
     - [Main Page](https://docs.tiazzz.me/Constructra/)
-    - [API Docs](https://docs.tiazzz.me/Constructra/api/)
+    - [Developer Docs](https://docs.tiazzz.me/Constructra/developers/getting-started/)

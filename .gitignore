@@ -126,3 +126,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Local Site Directories
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby Gems
+.bundle
+Gemfile.lock
